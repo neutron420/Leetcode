@@ -5,6 +5,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/neutron420/LEETCODE/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/neutron420/LEETCODE/tree/master/0227-basic-calculator-ii) |
 ## String
 |  |
@@ -24,4 +25,12 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/neutron420/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/neutron420/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/neutron420/LEETCODE/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/neutron420/LEETCODE/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
