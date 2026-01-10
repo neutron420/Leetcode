@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/neutron420/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/neutron420/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/neutron420/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Binary Search
@@ -32,5 +33,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/neutron420/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/neutron420/LEETCODE/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
