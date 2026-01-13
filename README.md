@@ -17,6 +17,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/neutron420/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/neutron420/LEETCODE/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/neutron420/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 ## Array
 |  |
 | ------- |
@@ -55,4 +56,12 @@
 |  |
 | ------- |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/neutron420/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/neutron420/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/neutron420/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
