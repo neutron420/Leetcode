@@ -8,6 +8,7 @@
 | [0067-add-binary](https://github.com/neutron420/LEETCODE/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/neutron420/LEETCODE/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/neutron420/LEETCODE/tree/master/0227-basic-calculator-ii) |
+| [0441-arranging-coins](https://github.com/neutron420/LEETCODE/tree/master/0441-arranging-coins) |
 ## String
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/neutron420/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/neutron420/LEETCODE/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/neutron420/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/neutron420/LEETCODE/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/neutron420/LEETCODE/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/neutron420/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/neutron420/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
