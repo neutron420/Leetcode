@@ -36,6 +36,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/neutron420/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/neutron420/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0278-first-bad-version](https://github.com/neutron420/LEETCODE/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/neutron420/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/neutron420/LEETCODE/tree/master/0704-binary-search) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/neutron420/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
@@ -97,5 +98,6 @@
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/neutron420/LEETCODE/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/neutron420/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
