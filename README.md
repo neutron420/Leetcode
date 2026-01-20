@@ -147,4 +147,12 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/neutron420/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/neutron420/LEETCODE/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/neutron420/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
