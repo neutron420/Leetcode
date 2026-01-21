@@ -32,6 +32,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/neutron420/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/neutron420/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0047-permutations-ii](https://github.com/neutron420/LEETCODE/tree/master/0047-permutations-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/neutron420/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/neutron420/LEETCODE/tree/master/0179-largest-number) |
 | [0239-sliding-window-maximum](https://github.com/neutron420/LEETCODE/tree/master/0239-sliding-window-maximum) |
@@ -70,6 +71,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/neutron420/LEETCODE/tree/master/0047-permutations-ii) |
 | [0179-largest-number](https://github.com/neutron420/LEETCODE/tree/master/0179-largest-number) |
 | [0658-find-k-closest-elements](https://github.com/neutron420/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/neutron420/LEETCODE/tree/master/0905-sort-array-by-parity) |
@@ -162,4 +164,8 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/neutron420/LEETCODE/tree/master/0179-largest-number) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/neutron420/LEETCODE/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
