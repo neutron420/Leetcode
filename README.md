@@ -18,6 +18,7 @@
 | [0067-add-binary](https://github.com/neutron420/LEETCODE/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/neutron420/LEETCODE/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/neutron420/LEETCODE/tree/master/0227-basic-calculator-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/neutron420/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/neutron420/LEETCODE/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/neutron420/LEETCODE/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Stack
@@ -32,6 +33,7 @@
 | [0227-basic-calculator-ii](https://github.com/neutron420/LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/neutron420/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/neutron420/LEETCODE/tree/master/0735-asteroid-collision) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/neutron420/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Array
 |  |
 | ------- |
@@ -190,6 +192,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/neutron420/LEETCODE/tree/master/0179-largest-number) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/neutron420/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -198,4 +201,8 @@
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/neutron420/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/neutron420/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
