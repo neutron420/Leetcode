@@ -75,6 +75,7 @@
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/neutron420/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0146-lru-cache](https://github.com/neutron420/LEETCODE/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/neutron420/LEETCODE/tree/master/0202-happy-number) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/neutron420/LEETCODE/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/neutron420/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
@@ -105,6 +106,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/neutron420/LEETCODE/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/neutron420/LEETCODE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/neutron420/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/neutron420/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
@@ -192,6 +194,7 @@
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/neutron420/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0146-lru-cache](https://github.com/neutron420/LEETCODE/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/neutron420/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
@@ -222,4 +225,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/neutron420/LEETCODE/tree/master/0901-online-stock-span) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/neutron420/LEETCODE/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
