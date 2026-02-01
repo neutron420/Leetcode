@@ -35,6 +35,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/neutron420/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/neutron420/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/neutron420/LEETCODE/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/neutron420/LEETCODE/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/neutron420/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/neutron420/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 ## Array
@@ -107,6 +108,7 @@
 | [0155-min-stack](https://github.com/neutron420/LEETCODE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/neutron420/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/neutron420/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/neutron420/LEETCODE/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -213,6 +215,11 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/neutron420/LEETCODE/tree/master/0402-remove-k-digits) |
+| [0901-online-stock-span](https://github.com/neutron420/LEETCODE/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/neutron420/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/neutron420/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/neutron420/LEETCODE/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
