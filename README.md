@@ -16,6 +16,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/neutron420/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/neutron420/LEETCODE/tree/master/0067-add-binary) |
+| [0139-word-break](https://github.com/neutron420/LEETCODE/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/neutron420/LEETCODE/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/neutron420/LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0402-remove-k-digits](https://github.com/neutron420/LEETCODE/tree/master/0402-remove-k-digits) |
@@ -47,6 +48,7 @@
 | [0051-n-queens](https://github.com/neutron420/LEETCODE/tree/master/0051-n-queens) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/neutron420/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/neutron420/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0139-word-break](https://github.com/neutron420/LEETCODE/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/neutron420/LEETCODE/tree/master/0179-largest-number) |
 | [0239-sliding-window-maximum](https://github.com/neutron420/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/neutron420/LEETCODE/tree/master/0658-find-k-closest-elements) |
@@ -76,6 +78,7 @@
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/neutron420/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0139-word-break](https://github.com/neutron420/LEETCODE/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/neutron420/LEETCODE/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/neutron420/LEETCODE/tree/master/0202-happy-number) |
 | [0460-lfu-cache](https://github.com/neutron420/LEETCODE/tree/master/0460-lfu-cache) |
@@ -236,4 +239,16 @@
 | ------- |
 | [0146-lru-cache](https://github.com/neutron420/LEETCODE/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/neutron420/LEETCODE/tree/master/0460-lfu-cache) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0139-word-break](https://github.com/neutron420/LEETCODE/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/neutron420/LEETCODE/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/neutron420/LEETCODE/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
