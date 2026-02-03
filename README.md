@@ -146,6 +146,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/neutron420/LEETCODE/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/neutron420/LEETCODE/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/neutron420/LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0672-bulb-switcher-ii](https://github.com/neutron420/LEETCODE/tree/master/0672-bulb-switcher-ii) |
 ## Simulation
 |  |
@@ -229,6 +230,7 @@
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/neutron420/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/neutron420/LEETCODE/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/neutron420/LEETCODE/tree/master/0191-number-of-1-bits) |
 ## Monotonic Stack
 |  |
 | ------- |
