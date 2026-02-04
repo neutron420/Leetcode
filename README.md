@@ -42,6 +42,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/neutron420/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/neutron420/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/neutron420/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/neutron420/LEETCODE/tree/master/0037-sudoku-solver) |
@@ -64,6 +65,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/neutron420/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/neutron420/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/neutron420/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/neutron420/LEETCODE/tree/master/0278-first-bad-version) |
@@ -228,6 +230,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/neutron420/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/neutron420/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/neutron420/LEETCODE/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/neutron420/LEETCODE/tree/master/0191-number-of-1-bits) |
