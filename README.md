@@ -152,6 +152,7 @@
 | [0067-add-binary](https://github.com/neutron420/LEETCODE/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/neutron420/LEETCODE/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/neutron420/LEETCODE/tree/master/0191-number-of-1-bits) |
+| [0401-binary-watch](https://github.com/neutron420/LEETCODE/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/neutron420/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/neutron420/LEETCODE/tree/master/0461-hamming-distance) |
 | [0672-bulb-switcher-ii](https://github.com/neutron420/LEETCODE/tree/master/0672-bulb-switcher-ii) |
@@ -232,6 +233,7 @@
 | [0047-permutations-ii](https://github.com/neutron420/LEETCODE/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/neutron420/LEETCODE/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/neutron420/LEETCODE/tree/master/0052-n-queens-ii) |
+| [0401-binary-watch](https://github.com/neutron420/LEETCODE/tree/master/0401-binary-watch) |
 ## Divide and Conquer
 |  |
 | ------- |
