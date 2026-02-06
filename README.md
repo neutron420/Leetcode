@@ -40,6 +40,7 @@
 | [0402-remove-k-digits](https://github.com/neutron420/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/neutron420/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/neutron420/LEETCODE/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/neutron420/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/neutron420/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/neutron420/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/neutron420/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
@@ -63,6 +64,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/neutron420/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0905-sort-array-by-parity](https://github.com/neutron420/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0994-rotting-oranges](https://github.com/neutron420/LEETCODE/tree/master/0994-rotting-oranges) |
+| [1019-next-greater-node-in-linked-list](https://github.com/neutron420/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/neutron420/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/neutron420/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/neutron420/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
@@ -219,6 +221,7 @@
 | [0146-lru-cache](https://github.com/neutron420/LEETCODE/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/neutron420/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0460-lfu-cache](https://github.com/neutron420/LEETCODE/tree/master/0460-lfu-cache) |
+| [1019-next-greater-node-in-linked-list](https://github.com/neutron420/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -249,6 +252,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/neutron420/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0901-online-stock-span](https://github.com/neutron420/LEETCODE/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/neutron420/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/neutron420/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/neutron420/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/neutron420/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
