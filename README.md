@@ -8,6 +8,7 @@
 | [0067-add-binary](https://github.com/neutron420/LEETCODE/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/neutron420/LEETCODE/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/neutron420/LEETCODE/tree/master/0227-basic-calculator-ii) |
+| [0382-linked-list-random-node](https://github.com/neutron420/LEETCODE/tree/master/0382-linked-list-random-node) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/neutron420/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/neutron420/LEETCODE/tree/master/0441-arranging-coins) |
 | [0672-bulb-switcher-ii](https://github.com/neutron420/LEETCODE/tree/master/0672-bulb-switcher-ii) |
@@ -220,6 +221,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/neutron420/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/neutron420/LEETCODE/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/neutron420/LEETCODE/tree/master/0203-remove-linked-list-elements) |
+| [0382-linked-list-random-node](https://github.com/neutron420/LEETCODE/tree/master/0382-linked-list-random-node) |
 | [0460-lfu-cache](https://github.com/neutron420/LEETCODE/tree/master/0460-lfu-cache) |
 | [1019-next-greater-node-in-linked-list](https://github.com/neutron420/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 ## Recursion
@@ -277,4 +279,12 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/neutron420/LEETCODE/tree/master/0139-word-break) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/neutron420/LEETCODE/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/neutron420/LEETCODE/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
