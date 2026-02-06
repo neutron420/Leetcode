@@ -100,6 +100,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/neutron420/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0086-partition-list](https://github.com/neutron420/LEETCODE/tree/master/0086-partition-list) |
 | [0202-happy-number](https://github.com/neutron420/LEETCODE/tree/master/0202-happy-number) |
 | [0658-find-k-closest-elements](https://github.com/neutron420/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/neutron420/LEETCODE/tree/master/0905-sort-array-by-parity) |
@@ -217,6 +218,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/neutron420/LEETCODE/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/neutron420/LEETCODE/tree/master/0092-reverse-linked-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/neutron420/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/neutron420/LEETCODE/tree/master/0146-lru-cache) |
