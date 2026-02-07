@@ -18,6 +18,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/neutron420/LEETCODE/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/neutron420/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/neutron420/LEETCODE/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/neutron420/LEETCODE/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/neutron420/LEETCODE/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/neutron420/LEETCODE/tree/master/0179-largest-number) |
