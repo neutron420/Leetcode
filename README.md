@@ -5,6 +5,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/neutron420/LEETCODE/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/neutron420/LEETCODE/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/neutron420/LEETCODE/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/neutron420/LEETCODE/tree/master/0227-basic-calculator-ii) |
@@ -55,6 +56,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/neutron420/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/neutron420/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/neutron420/LEETCODE/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/neutron420/LEETCODE/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/neutron420/LEETCODE/tree/master/0051-n-queens) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/neutron420/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/neutron420/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -207,6 +209,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/neutron420/LEETCODE/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/neutron420/LEETCODE/tree/master/0048-rotate-image) |
 | [0994-rotting-oranges](https://github.com/neutron420/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/neutron420/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Breadth-First Search
