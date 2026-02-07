@@ -7,6 +7,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/neutron420/LEETCODE/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/neutron420/LEETCODE/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/neutron420/LEETCODE/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/neutron420/LEETCODE/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/neutron420/LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0382-linked-list-random-node](https://github.com/neutron420/LEETCODE/tree/master/0382-linked-list-random-node) |
@@ -79,6 +80,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/neutron420/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/neutron420/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/neutron420/LEETCODE/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/neutron420/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/neutron420/LEETCODE/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/neutron420/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
