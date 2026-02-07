@@ -8,6 +8,7 @@
 | [0048-rotate-image](https://github.com/neutron420/LEETCODE/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/neutron420/LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/neutron420/LEETCODE/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/neutron420/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/neutron420/LEETCODE/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/neutron420/LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0382-linked-list-random-node](https://github.com/neutron420/LEETCODE/tree/master/0382-linked-list-random-node) |
@@ -282,6 +283,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/neutron420/LEETCODE/tree/master/0044-wildcard-matching) |
+| [0070-climbing-stairs](https://github.com/neutron420/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/neutron420/LEETCODE/tree/master/0139-word-break) |
 ## Trie
 |  |
@@ -290,6 +292,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/neutron420/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/neutron420/LEETCODE/tree/master/0139-word-break) |
 ## Reservoir Sampling
 |  |
