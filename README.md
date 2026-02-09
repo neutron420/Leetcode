@@ -9,6 +9,7 @@
 | [0067-add-binary](https://github.com/neutron420/LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/neutron420/LEETCODE/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/neutron420/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/neutron420/LEETCODE/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/neutron420/LEETCODE/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/neutron420/LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0382-linked-list-random-node](https://github.com/neutron420/LEETCODE/tree/master/0382-linked-list-random-node) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/neutron420/LEETCODE/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/neutron420/LEETCODE/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/neutron420/LEETCODE/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/neutron420/LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0401-binary-watch](https://github.com/neutron420/LEETCODE/tree/master/0401-binary-watch) |
@@ -261,6 +263,7 @@
 | [0047-permutations-ii](https://github.com/neutron420/LEETCODE/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/neutron420/LEETCODE/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/neutron420/LEETCODE/tree/master/0052-n-queens-ii) |
+| [0089-gray-code](https://github.com/neutron420/LEETCODE/tree/master/0089-gray-code) |
 | [0401-binary-watch](https://github.com/neutron420/LEETCODE/tree/master/0401-binary-watch) |
 ## Divide and Conquer
 |  |
