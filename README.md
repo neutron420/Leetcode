@@ -82,6 +82,7 @@
 | [0706-design-hashmap](https://github.com/neutron420/LEETCODE/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/neutron420/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/neutron420/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0766-toeplitz-matrix](https://github.com/neutron420/LEETCODE/tree/master/0766-toeplitz-matrix) |
 | [0905-sort-array-by-parity](https://github.com/neutron420/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0994-rotting-oranges](https://github.com/neutron420/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1019-next-greater-node-in-linked-list](https://github.com/neutron420/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
@@ -252,6 +253,7 @@
 | [0048-rotate-image](https://github.com/neutron420/LEETCODE/tree/master/0048-rotate-image) |
 | [0174-dungeon-game](https://github.com/neutron420/LEETCODE/tree/master/0174-dungeon-game) |
 | [0566-reshape-the-matrix](https://github.com/neutron420/LEETCODE/tree/master/0566-reshape-the-matrix) |
+| [0766-toeplitz-matrix](https://github.com/neutron420/LEETCODE/tree/master/0766-toeplitz-matrix) |
 | [0994-rotting-oranges](https://github.com/neutron420/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/neutron420/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Breadth-First Search
