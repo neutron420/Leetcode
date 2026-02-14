@@ -85,6 +85,7 @@
 | [0735-asteroid-collision](https://github.com/neutron420/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/neutron420/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/neutron420/LEETCODE/tree/master/0766-toeplitz-matrix) |
+| [0867-transpose-matrix](https://github.com/neutron420/LEETCODE/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/neutron420/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0909-snakes-and-ladders](https://github.com/neutron420/LEETCODE/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/neutron420/LEETCODE/tree/master/0994-rotting-oranges) |
@@ -213,6 +214,7 @@
 | [0067-add-binary](https://github.com/neutron420/LEETCODE/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/neutron420/LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/neutron420/LEETCODE/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/neutron420/LEETCODE/tree/master/0867-transpose-matrix) |
 ## Interactive
 |  |
 | ------- |
@@ -261,6 +263,7 @@
 | [0566-reshape-the-matrix](https://github.com/neutron420/LEETCODE/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/neutron420/LEETCODE/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/neutron420/LEETCODE/tree/master/0766-toeplitz-matrix) |
+| [0867-transpose-matrix](https://github.com/neutron420/LEETCODE/tree/master/0867-transpose-matrix) |
 | [0909-snakes-and-ladders](https://github.com/neutron420/LEETCODE/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/neutron420/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/neutron420/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
