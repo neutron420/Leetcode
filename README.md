@@ -63,6 +63,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/neutron420/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/neutron420/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/neutron420/LEETCODE/tree/master/0037-sudoku-solver) |
+| [0045-jump-game-ii](https://github.com/neutron420/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/neutron420/LEETCODE/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/neutron420/LEETCODE/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/neutron420/LEETCODE/tree/master/0051-n-queens) |
@@ -329,6 +330,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/neutron420/LEETCODE/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/neutron420/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/neutron420/LEETCODE/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/neutron420/LEETCODE/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/neutron420/LEETCODE/tree/master/0316-remove-duplicate-letters) |
@@ -381,6 +383,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/neutron420/LEETCODE/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/neutron420/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/neutron420/LEETCODE/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/neutron420/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/neutron420/LEETCODE/tree/master/0139-word-break) |
