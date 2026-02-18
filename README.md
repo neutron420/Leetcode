@@ -33,6 +33,7 @@
 | [0316-remove-duplicate-letters](https://github.com/neutron420/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/neutron420/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/neutron420/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0678-valid-parenthesis-string](https://github.com/neutron420/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/neutron420/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1763-longest-nice-substring](https://github.com/neutron420/LEETCODE/tree/master/1763-longest-nice-substring) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/neutron420/LEETCODE/tree/master/1839-longest-substring-of-all-vowels-in-order) |
@@ -50,6 +51,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/neutron420/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/neutron420/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/neutron420/LEETCODE/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/neutron420/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/neutron420/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/neutron420/LEETCODE/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/neutron420/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
@@ -340,6 +342,7 @@
 | [0402-remove-k-digits](https://github.com/neutron420/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/neutron420/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/neutron420/LEETCODE/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/neutron420/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/neutron420/LEETCODE/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/neutron420/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Backtracking
@@ -393,6 +396,7 @@
 | [0139-word-break](https://github.com/neutron420/LEETCODE/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/neutron420/LEETCODE/tree/master/0174-dungeon-game) |
 | [0435-non-overlapping-intervals](https://github.com/neutron420/LEETCODE/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/neutron420/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 ## Trie
 |  |
 | ------- |
