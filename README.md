@@ -75,6 +75,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/neutron420/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/neutron420/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/neutron420/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0135-candy](https://github.com/neutron420/LEETCODE/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/neutron420/LEETCODE/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/neutron420/LEETCODE/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/neutron420/LEETCODE/tree/master/0174-dungeon-game) |
@@ -337,6 +338,7 @@
 | [0044-wildcard-matching](https://github.com/neutron420/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/neutron420/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/neutron420/LEETCODE/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/neutron420/LEETCODE/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/neutron420/LEETCODE/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/neutron420/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/neutron420/LEETCODE/tree/master/0402-remove-k-digits) |
