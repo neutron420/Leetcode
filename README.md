@@ -113,6 +113,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/neutron420/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/neutron420/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/neutron420/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2073-time-needed-to-buy-tickets](https://github.com/neutron420/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 | [2104-sum-of-subarray-ranges](https://github.com/neutron420/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/neutron420/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Binary Search
@@ -209,6 +210,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/neutron420/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/neutron420/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0933-number-of-recent-calls](https://github.com/neutron420/LEETCODE/tree/master/0933-number-of-recent-calls) |
+| [2073-time-needed-to-buy-tickets](https://github.com/neutron420/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 ## Sliding Window
 |  |
 | ------- |
@@ -258,6 +260,7 @@
 | [0682-baseball-game](https://github.com/neutron420/LEETCODE/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/neutron420/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/neutron420/LEETCODE/tree/master/0867-transpose-matrix) |
+| [2073-time-needed-to-buy-tickets](https://github.com/neutron420/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 ## Interactive
 |  |
 | ------- |
