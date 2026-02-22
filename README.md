@@ -19,6 +19,7 @@
 | [0441-arranging-coins](https://github.com/neutron420/LEETCODE/tree/master/0441-arranging-coins) |
 | [0672-bulb-switcher-ii](https://github.com/neutron420/LEETCODE/tree/master/0672-bulb-switcher-ii) |
 | [0754-reach-a-number](https://github.com/neutron420/LEETCODE/tree/master/0754-reach-a-number) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/neutron420/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
 | ------- |
@@ -252,6 +253,7 @@
 | [0473-matchsticks-to-square](https://github.com/neutron420/LEETCODE/tree/master/0473-matchsticks-to-square) |
 | [0672-bulb-switcher-ii](https://github.com/neutron420/LEETCODE/tree/master/0672-bulb-switcher-ii) |
 | [1763-longest-nice-substring](https://github.com/neutron420/LEETCODE/tree/master/1763-longest-nice-substring) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/neutron420/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
 | ------- |
@@ -261,6 +263,7 @@
 | [0735-asteroid-collision](https://github.com/neutron420/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/neutron420/LEETCODE/tree/master/0867-transpose-matrix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/neutron420/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/neutron420/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Interactive
 |  |
 | ------- |
@@ -347,6 +350,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/neutron420/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/neutron420/LEETCODE/tree/master/0203-remove-linked-list-elements) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/neutron420/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
 | ------- |
