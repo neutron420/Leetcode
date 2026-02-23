@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/neutron420/LEETCODE/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/neutron420/LEETCODE/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/neutron420/LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/neutron420/LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/neutron420/LEETCODE/tree/master/0069-sqrtx) |
@@ -349,6 +350,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/neutron420/LEETCODE/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/neutron420/LEETCODE/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/neutron420/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/neutron420/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Greedy
