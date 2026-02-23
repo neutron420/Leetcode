@@ -40,6 +40,7 @@
 | [1763-longest-nice-substring](https://github.com/neutron420/LEETCODE/tree/master/1763-longest-nice-substring) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/neutron420/LEETCODE/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/neutron420/LEETCODE/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/neutron420/LEETCODE/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Stack
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/neutron420/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/neutron420/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/neutron420/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/neutron420/LEETCODE/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Array
 |  |
 | ------- |
@@ -156,6 +158,7 @@
 | [1763-longest-nice-substring](https://github.com/neutron420/LEETCODE/tree/master/1763-longest-nice-substring) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/neutron420/LEETCODE/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/neutron420/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/neutron420/LEETCODE/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -368,6 +371,7 @@
 | [0678-valid-parenthesis-string](https://github.com/neutron420/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/neutron420/LEETCODE/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/neutron420/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/neutron420/LEETCODE/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -400,6 +404,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/neutron420/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/neutron420/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/neutron420/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/neutron420/LEETCODE/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Data Stream
 |  |
 | ------- |
