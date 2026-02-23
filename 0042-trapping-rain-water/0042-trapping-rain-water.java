@@ -24,8 +24,4 @@ class Solution {
         return trappedWater;
     }
 
-    public static void main(String[] args) {
-        int numbers[] = {0,1,0,2,1,0,1,3,2,1,2,1};
-        System.out.println(trap(numbers));
-    }
 }
