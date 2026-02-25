@@ -113,6 +113,7 @@
 | [0867-transpose-matrix](https://github.com/neutron420/LEETCODE/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/neutron420/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0909-snakes-and-ladders](https://github.com/neutron420/LEETCODE/tree/master/0909-snakes-and-ladders) |
+| [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/neutron420/LEETCODE/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0994-rotting-oranges](https://github.com/neutron420/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1019-next-greater-node-in-linked-list](https://github.com/neutron420/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/neutron420/LEETCODE/tree/master/1046-last-stone-weight) |
@@ -159,6 +160,7 @@
 | [0621-task-scheduler](https://github.com/neutron420/LEETCODE/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/neutron420/LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/neutron420/LEETCODE/tree/master/0706-design-hashmap) |
+| [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/neutron420/LEETCODE/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/neutron420/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1763-longest-nice-substring](https://github.com/neutron420/LEETCODE/tree/master/1763-longest-nice-substring) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/neutron420/LEETCODE/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -265,6 +267,7 @@
 | [0461-hamming-distance](https://github.com/neutron420/LEETCODE/tree/master/0461-hamming-distance) |
 | [0473-matchsticks-to-square](https://github.com/neutron420/LEETCODE/tree/master/0473-matchsticks-to-square) |
 | [0672-bulb-switcher-ii](https://github.com/neutron420/LEETCODE/tree/master/0672-bulb-switcher-ii) |
+| [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/neutron420/LEETCODE/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [1763-longest-nice-substring](https://github.com/neutron420/LEETCODE/tree/master/1763-longest-nice-substring) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/neutron420/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Simulation
