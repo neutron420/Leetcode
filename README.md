@@ -121,6 +121,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/neutron420/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/neutron420/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/neutron420/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2017-grid-game](https://github.com/neutron420/LEETCODE/tree/master/2017-grid-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/neutron420/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 | [2104-sum-of-subarray-ranges](https://github.com/neutron420/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/neutron420/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
@@ -196,6 +197,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [2017-grid-game](https://github.com/neutron420/LEETCODE/tree/master/2017-grid-game) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/neutron420/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Ordered Set
 |  |
@@ -330,6 +332,7 @@
 | [0994-rotting-oranges](https://github.com/neutron420/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/neutron420/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/neutron420/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2017-grid-game](https://github.com/neutron420/LEETCODE/tree/master/2017-grid-game) |
 ## Breadth-First Search
 |  |
 | ------- |
