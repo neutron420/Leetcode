@@ -92,6 +92,7 @@
 | [0322-coin-change](https://github.com/neutron420/LEETCODE/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/neutron420/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neutron420/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/neutron420/LEETCODE/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0435-non-overlapping-intervals](https://github.com/neutron420/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/neutron420/LEETCODE/tree/master/0463-island-perimeter) |
 | [0473-matchsticks-to-square](https://github.com/neutron420/LEETCODE/tree/master/0473-matchsticks-to-square) |
@@ -236,6 +237,7 @@
 | [0239-sliding-window-maximum](https://github.com/neutron420/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/neutron420/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/neutron420/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/neutron420/LEETCODE/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0506-relative-ranks](https://github.com/neutron420/LEETCODE/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/neutron420/LEETCODE/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/neutron420/LEETCODE/tree/master/0658-find-k-closest-elements) |
