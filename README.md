@@ -352,6 +352,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/neutron420/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/neutron420/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0086-partition-list](https://github.com/neutron420/LEETCODE/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/neutron420/LEETCODE/tree/master/0092-reverse-linked-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/neutron420/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -365,6 +366,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/neutron420/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/neutron420/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/neutron420/LEETCODE/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/neutron420/LEETCODE/tree/master/0203-remove-linked-list-elements) |
