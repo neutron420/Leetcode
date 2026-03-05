@@ -7,6 +7,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/neutron420/LEETCODE/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/neutron420/LEETCODE/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/neutron420/LEETCODE/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/neutron420/LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/neutron420/LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/neutron420/LEETCODE/tree/master/0069-sqrtx) |
@@ -462,6 +463,7 @@
 | [0044-wildcard-matching](https://github.com/neutron420/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/neutron420/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/neutron420/LEETCODE/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/neutron420/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/neutron420/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/neutron420/LEETCODE/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/neutron420/LEETCODE/tree/master/0174-dungeon-game) |
@@ -518,4 +520,8 @@
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/neutron420/LEETCODE/tree/master/0473-matchsticks-to-square) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/neutron420/LEETCODE/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
