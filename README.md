@@ -94,6 +94,7 @@
 | [0179-largest-number](https://github.com/neutron420/LEETCODE/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/neutron420/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/neutron420/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/neutron420/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/neutron420/LEETCODE/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/neutron420/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neutron420/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -145,6 +146,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/neutron420/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/neutron420/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/neutron420/LEETCODE/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/neutron420/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neutron420/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/neutron420/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/neutron420/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
@@ -184,6 +186,7 @@
 | [0042-trapping-rain-water](https://github.com/neutron420/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/neutron420/LEETCODE/tree/master/0086-partition-list) |
 | [0202-happy-number](https://github.com/neutron420/LEETCODE/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/neutron420/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/neutron420/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neutron420/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/neutron420/LEETCODE/tree/master/0392-is-subsequence) |
@@ -277,6 +280,7 @@
 | [0191-number-of-1-bits](https://github.com/neutron420/LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/neutron420/LEETCODE/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/neutron420/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/neutron420/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/neutron420/LEETCODE/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/neutron420/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/neutron420/LEETCODE/tree/master/0461-hamming-distance) |
