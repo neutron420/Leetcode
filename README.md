@@ -15,6 +15,7 @@
 | [0089-gray-code](https://github.com/neutron420/LEETCODE/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/neutron420/LEETCODE/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/neutron420/LEETCODE/tree/master/0227-basic-calculator-ii) |
+| [0263-ugly-number](https://github.com/neutron420/LEETCODE/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/neutron420/LEETCODE/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/neutron420/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0382-linked-list-random-node](https://github.com/neutron420/LEETCODE/tree/master/0382-linked-list-random-node) |
