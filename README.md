@@ -188,6 +188,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/neutron420/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/neutron420/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/neutron420/LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/neutron420/LEETCODE/tree/master/0086-partition-list) |
 | [0202-happy-number](https://github.com/neutron420/LEETCODE/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/neutron420/LEETCODE/tree/master/0287-find-the-duplicate-number) |
@@ -382,6 +383,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/neutron420/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/neutron420/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/neutron420/LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/neutron420/LEETCODE/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/neutron420/LEETCODE/tree/master/0092-reverse-linked-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/neutron420/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
