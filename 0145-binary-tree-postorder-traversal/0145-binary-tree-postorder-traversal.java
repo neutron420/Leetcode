@@ -15,7 +15,7 @@
  */
 class Solution {
     public List<Integer> postorderTraversal(TreeNode root) {
-        	List<Integer> pre = new LinkedList<Integer>();
+        List<Integer> pre = new LinkedList<Integer>();
 		if(root==null) return pre;
 		pre.addAll(postorderTraversal(root.left));
 		pre.addAll(postorderTraversal(root.right));
