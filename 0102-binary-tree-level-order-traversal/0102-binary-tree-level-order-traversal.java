@@ -4,36 +4,26 @@
  *     int val;
  *     TreeNode left;
  *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
+ *     TreeNode(int x) { val = x; }
  * }
  */
 class Solution {
-  public List<List<Integer>> levelOrder(TreeNode root) {
-    if (root == null)
-      return new ArrayList<>();
-
-    List<List<Integer>> ans = new ArrayList<>();
-    Queue<TreeNode> q = new ArrayDeque<>(List.of(root));
-
-    while (!q.isEmpty()) {
-      List<Integer> currLevel = new ArrayList<>();
-      for (int sz = q.size(); sz > 0; --sz) {
-        TreeNode node = q.poll();
-        currLevel.add(node.val);
-        if (node.left != null)
-          q.offer(node.left);
-        if (node.right != null)
-          q.offer(node.right);
-      }
-      ans.add(currLevel);
+    public List<List<Integer>> levelOrder(TreeNode root) {
+        List<List<Integer>> result = new ArrayList<>();
+        if(root == null) return result;
+        LinkedList<TreeNode> queue = new LinkedList<>();
+        queue.add(root);
+        while(queue.size() != 0){
+            int count = queue.size();
+            List<Integer> list = new LinkedList<>();
+            for(int i = 0; i < count; i++){
+                TreeNode node = queue.poll();
+                if(node.left != null) queue.add(node.left);
+                if(node.right != null) queue.add(node.right);
+                list.add(node.val);
+            }
+            result.add(list);
+        }
+        return result;
     }
-
-    return ans;
-  }
 }
