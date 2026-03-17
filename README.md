@@ -333,6 +333,7 @@
 | [0226-invert-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0427-construct-quad-tree](https://github.com/neutron420/LEETCODE/tree/master/0427-construct-quad-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -350,6 +351,7 @@
 | [0226-invert-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/neutron420/LEETCODE/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/neutron420/LEETCODE/tree/master/0672-bulb-switcher-ii) |
 | [0733-flood-fill](https://github.com/neutron420/LEETCODE/tree/master/0733-flood-fill) |
 ## Binary Tree
@@ -373,6 +375,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/neutron420/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -405,6 +408,7 @@
 | [0226-invert-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/neutron420/LEETCODE/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/neutron420/LEETCODE/tree/master/0463-island-perimeter) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/neutron420/LEETCODE/tree/master/0672-bulb-switcher-ii) |
 | [0733-flood-fill](https://github.com/neutron420/LEETCODE/tree/master/0733-flood-fill) |
 | [0909-snakes-and-ladders](https://github.com/neutron420/LEETCODE/tree/master/0909-snakes-and-ladders) |
