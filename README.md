@@ -352,6 +352,7 @@
 | [0427-construct-quad-tree](https://github.com/neutron420/LEETCODE/tree/master/0427-construct-quad-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -374,6 +375,7 @@
 | [0463-island-perimeter](https://github.com/neutron420/LEETCODE/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/neutron420/LEETCODE/tree/master/0672-bulb-switcher-ii) |
 | [0733-flood-fill](https://github.com/neutron420/LEETCODE/tree/master/0733-flood-fill) |
 ## Binary Tree
@@ -405,6 +407,7 @@
 | [0404-sum-of-left-leaves](https://github.com/neutron420/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -441,6 +444,7 @@
 | [0404-sum-of-left-leaves](https://github.com/neutron420/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/neutron420/LEETCODE/tree/master/0463-island-perimeter) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/neutron420/LEETCODE/tree/master/0672-bulb-switcher-ii) |
 | [0733-flood-fill](https://github.com/neutron420/LEETCODE/tree/master/0733-flood-fill) |
 | [0909-snakes-and-ladders](https://github.com/neutron420/LEETCODE/tree/master/0909-snakes-and-ladders) |
