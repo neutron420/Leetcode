@@ -14,24 +14,26 @@
  * }
  */
 class Solution {
-  public TreeNode buildTree(int[] inorder, int[] postorder) {
-    Map<Integer, Integer> inToIndex = new HashMap<>();
-    for (int i = 0; i < inorder.length; ++i)
-      inToIndex.put(inorder[i], i);
-    return build(inorder, 0, inorder.length - 1, postorder, 0, postorder.length - 1, inToIndex);
-  }
-  TreeNode build(int[] inorder, int inStart, int inEnd, int[] postorder, int postStart, int postEnd,
-                 Map<Integer, Integer> inToIndex) {
-    if (inStart > inEnd)
-      return null;
-    final int rootVal = postorder[postEnd];
-    final int rootInIndex = inToIndex.get(rootVal);
-    final int leftSize = rootInIndex - inStart;
-    TreeNode root = new TreeNode(rootVal);
-    root.left = build(inorder, inStart, rootInIndex - 1, postorder, postStart,
-                      postStart + leftSize - 1, inToIndex);
-    root.right = build(inorder, rootInIndex + 1, inEnd, postorder, postStart + leftSize,
-                       postEnd - 1, inToIndex);
-    return root;
-  }
+    private Map<Integer, Integer> d = new HashMap<>();
+    private int[] postorder;
+
+    public TreeNode buildTree(int[] inorder, int[] postorder) {
+        this.postorder = postorder;
+        int n = inorder.length;
+        for (int i = 0; i < n; ++i) {
+            d.put(inorder[i], i);
+        }
+        return dfs(0, 0, n);
+    }
+
+    private TreeNode dfs(int i, int j, int n) {
+        if (n <= 0) {
+            return null;
+        }
+        int v = postorder[j + n - 1];
+        int k = d.get(v);
+        TreeNode l = dfs(i, j, k - i);
+        TreeNode r = dfs(k + 1, j + k - i, n - k + i - 1);
+        return new TreeNode(v, l, r);
+    }
 }
