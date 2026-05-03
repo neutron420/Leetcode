@@ -134,6 +134,7 @@
 | [0909-snakes-and-ladders](https://github.com/neutron420/LEETCODE/tree/master/0909-snakes-and-ladders) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/neutron420/LEETCODE/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0994-rotting-oranges](https://github.com/neutron420/LEETCODE/tree/master/0994-rotting-oranges) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/neutron420/LEETCODE/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1019-next-greater-node-in-linked-list](https://github.com/neutron420/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/neutron420/LEETCODE/tree/master/1046-last-stone-weight) |
 | [1331-rank-transform-of-an-array](https://github.com/neutron420/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
@@ -230,6 +231,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/neutron420/LEETCODE/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [2017-grid-game](https://github.com/neutron420/LEETCODE/tree/master/2017-grid-game) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/neutron420/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Ordered Set
@@ -259,6 +261,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/neutron420/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/neutron420/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0933-number-of-recent-calls](https://github.com/neutron420/LEETCODE/tree/master/0933-number-of-recent-calls) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/neutron420/LEETCODE/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1670-design-front-middle-back-queue](https://github.com/neutron420/LEETCODE/tree/master/1670-design-front-middle-back-queue) |
 | [2073-time-needed-to-buy-tickets](https://github.com/neutron420/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 ## Sliding Window
@@ -267,6 +270,7 @@
 | [0239-sliding-window-maximum](https://github.com/neutron420/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/neutron420/LEETCODE/tree/master/0480-sliding-window-median) |
 | [0658-find-k-closest-elements](https://github.com/neutron420/LEETCODE/tree/master/0658-find-k-closest-elements) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/neutron420/LEETCODE/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1763-longest-nice-substring](https://github.com/neutron420/LEETCODE/tree/master/1763-longest-nice-substring) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/neutron420/LEETCODE/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 ## Heap (Priority Queue)
@@ -306,6 +310,7 @@
 | [0473-matchsticks-to-square](https://github.com/neutron420/LEETCODE/tree/master/0473-matchsticks-to-square) |
 | [0672-bulb-switcher-ii](https://github.com/neutron420/LEETCODE/tree/master/0672-bulb-switcher-ii) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/neutron420/LEETCODE/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/neutron420/LEETCODE/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1763-longest-nice-substring](https://github.com/neutron420/LEETCODE/tree/master/1763-longest-nice-substring) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/neutron420/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Simulation
