@@ -137,6 +137,7 @@
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/neutron420/LEETCODE/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1019-next-greater-node-in-linked-list](https://github.com/neutron420/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/neutron420/LEETCODE/tree/master/1046-last-stone-weight) |
+| [1051-height-checker](https://github.com/neutron420/LEETCODE/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/neutron420/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/neutron420/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/neutron420/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -224,6 +225,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/neutron420/LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0853-car-fleet](https://github.com/neutron420/LEETCODE/tree/master/0853-car-fleet) |
 | [0905-sort-array-by-parity](https://github.com/neutron420/LEETCODE/tree/master/0905-sort-array-by-parity) |
+| [1051-height-checker](https://github.com/neutron420/LEETCODE/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/neutron420/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/neutron420/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/neutron420/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -678,4 +680,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/neutron420/LEETCODE/tree/master/0207-course-schedule) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/neutron420/LEETCODE/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
