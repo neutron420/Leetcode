@@ -145,6 +145,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/neutron420/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/neutron420/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1670-design-front-middle-back-queue](https://github.com/neutron420/LEETCODE/tree/master/1670-design-front-middle-back-queue) |
+| [1833-maximum-ice-cream-bars](https://github.com/neutron420/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [2017-grid-game](https://github.com/neutron420/LEETCODE/tree/master/2017-grid-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/neutron420/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 | [2104-sum-of-subarray-ranges](https://github.com/neutron420/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
@@ -232,6 +233,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/neutron420/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/neutron420/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/neutron420/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/neutron420/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/neutron420/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Prefix Sum
 |  |
@@ -531,6 +533,7 @@
 | [0678-valid-parenthesis-string](https://github.com/neutron420/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/neutron420/LEETCODE/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/neutron420/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1833-maximum-ice-cream-bars](https://github.com/neutron420/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/neutron420/LEETCODE/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Backtracking
 |  |
@@ -688,4 +691,5 @@
 | ------- |
 | [1051-height-checker](https://github.com/neutron420/LEETCODE/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/neutron420/LEETCODE/tree/master/1122-relative-sort-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/neutron420/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
