@@ -138,6 +138,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/neutron420/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/neutron420/LEETCODE/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/neutron420/LEETCODE/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/neutron420/LEETCODE/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/neutron420/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/neutron420/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/neutron420/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -189,6 +190,7 @@
 | [0706-design-hashmap](https://github.com/neutron420/LEETCODE/tree/master/0706-design-hashmap) |
 | [0817-linked-list-components](https://github.com/neutron420/LEETCODE/tree/master/0817-linked-list-components) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/neutron420/LEETCODE/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
+| [1122-relative-sort-array](https://github.com/neutron420/LEETCODE/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/neutron420/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1763-longest-nice-substring](https://github.com/neutron420/LEETCODE/tree/master/1763-longest-nice-substring) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/neutron420/LEETCODE/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -226,6 +228,7 @@
 | [0853-car-fleet](https://github.com/neutron420/LEETCODE/tree/master/0853-car-fleet) |
 | [0905-sort-array-by-parity](https://github.com/neutron420/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/neutron420/LEETCODE/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/neutron420/LEETCODE/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/neutron420/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/neutron420/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/neutron420/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -684,4 +687,5 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/neutron420/LEETCODE/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/neutron420/LEETCODE/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
