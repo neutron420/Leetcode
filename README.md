@@ -15,6 +15,7 @@
 | [0089-gray-code](https://github.com/neutron420/LEETCODE/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/neutron420/LEETCODE/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/neutron420/LEETCODE/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/neutron420/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/neutron420/LEETCODE/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/neutron420/LEETCODE/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/neutron420/LEETCODE/tree/master/0367-valid-perfect-square) |
@@ -37,6 +38,7 @@
 | [0139-word-break](https://github.com/neutron420/LEETCODE/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/neutron420/LEETCODE/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/neutron420/LEETCODE/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/neutron420/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/neutron420/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/neutron420/LEETCODE/tree/master/0392-is-subsequence) |
@@ -526,6 +528,7 @@
 | [0044-wildcard-matching](https://github.com/neutron420/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/neutron420/LEETCODE/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/neutron420/LEETCODE/tree/master/0203-remove-linked-list-elements) |
+| [0241-different-ways-to-add-parentheses](https://github.com/neutron420/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/neutron420/LEETCODE/tree/master/0326-power-of-three) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/neutron420/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Greedy
@@ -611,6 +614,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/neutron420/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/neutron420/LEETCODE/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/neutron420/LEETCODE/tree/master/0174-dungeon-game) |
+| [0241-different-ways-to-add-parentheses](https://github.com/neutron420/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/neutron420/LEETCODE/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/neutron420/LEETCODE/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/neutron420/LEETCODE/tree/master/0435-non-overlapping-intervals) |
@@ -626,6 +630,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/neutron420/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/neutron420/LEETCODE/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/neutron420/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 ## Reservoir Sampling
 |  |
 | ------- |
