@@ -110,6 +110,7 @@
 | [0347-top-k-frequent-elements](https://github.com/neutron420/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neutron420/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/neutron420/LEETCODE/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0413-arithmetic-slices](https://github.com/neutron420/LEETCODE/tree/master/0413-arithmetic-slices) |
 | [0427-construct-quad-tree](https://github.com/neutron420/LEETCODE/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/neutron420/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/neutron420/LEETCODE/tree/master/0463-island-perimeter) |
@@ -278,6 +279,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/neutron420/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0413-arithmetic-slices](https://github.com/neutron420/LEETCODE/tree/master/0413-arithmetic-slices) |
 | [0480-sliding-window-median](https://github.com/neutron420/LEETCODE/tree/master/0480-sliding-window-median) |
 | [0658-find-k-closest-elements](https://github.com/neutron420/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/neutron420/LEETCODE/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
@@ -617,6 +619,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/neutron420/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/neutron420/LEETCODE/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/neutron420/LEETCODE/tree/master/0392-is-subsequence) |
+| [0413-arithmetic-slices](https://github.com/neutron420/LEETCODE/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/neutron420/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/neutron420/LEETCODE/tree/master/0473-matchsticks-to-square) |
 | [0678-valid-parenthesis-string](https://github.com/neutron420/LEETCODE/tree/master/0678-valid-parenthesis-string) |
