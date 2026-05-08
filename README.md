@@ -104,6 +104,7 @@
 | [0179-largest-number](https://github.com/neutron420/LEETCODE/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/neutron420/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/neutron420/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0274-h-index](https://github.com/neutron420/LEETCODE/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/neutron420/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/neutron420/LEETCODE/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/neutron420/LEETCODE/tree/master/0324-wiggle-sort-ii) |
@@ -222,6 +223,7 @@
 | [0047-permutations-ii](https://github.com/neutron420/LEETCODE/tree/master/0047-permutations-ii) |
 | [0179-largest-number](https://github.com/neutron420/LEETCODE/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/neutron420/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/neutron420/LEETCODE/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/neutron420/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/neutron420/LEETCODE/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/neutron420/LEETCODE/tree/master/0347-top-k-frequent-elements) |
@@ -718,6 +720,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/neutron420/LEETCODE/tree/master/0274-h-index) |
 | [1051-height-checker](https://github.com/neutron420/LEETCODE/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/neutron420/LEETCODE/tree/master/1122-relative-sort-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/neutron420/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
