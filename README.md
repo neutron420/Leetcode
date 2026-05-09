@@ -384,6 +384,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/neutron420/LEETCODE/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/neutron420/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/neutron420/LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0872-leaf-similar-trees](https://github.com/neutron420/LEETCODE/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/neutron420/LEETCODE/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/neutron420/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -420,6 +421,7 @@
 | [0684-redundant-connection](https://github.com/neutron420/LEETCODE/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/neutron420/LEETCODE/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/neutron420/LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0872-leaf-similar-trees](https://github.com/neutron420/LEETCODE/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/neutron420/LEETCODE/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/neutron420/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -461,6 +463,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/neutron420/LEETCODE/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/neutron420/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/neutron420/LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0872-leaf-similar-trees](https://github.com/neutron420/LEETCODE/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/neutron420/LEETCODE/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/neutron420/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
