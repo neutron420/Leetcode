@@ -387,6 +387,7 @@
 | [0872-leaf-similar-trees](https://github.com/neutron420/LEETCODE/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/neutron420/LEETCODE/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/neutron420/LEETCODE/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0965-univalued-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -424,6 +425,7 @@
 | [0872-leaf-similar-trees](https://github.com/neutron420/LEETCODE/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/neutron420/LEETCODE/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/neutron420/LEETCODE/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0965-univalued-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -466,6 +468,7 @@
 | [0872-leaf-similar-trees](https://github.com/neutron420/LEETCODE/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/neutron420/LEETCODE/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/neutron420/LEETCODE/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0965-univalued-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Matrix
 |  |
@@ -512,6 +515,7 @@
 | [0733-flood-fill](https://github.com/neutron420/LEETCODE/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/neutron420/LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0909-snakes-and-ladders](https://github.com/neutron420/LEETCODE/tree/master/0909-snakes-and-ladders) |
+| [0965-univalued-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/neutron420/LEETCODE/tree/master/0994-rotting-oranges) |
 ## Linked List
 |  |
