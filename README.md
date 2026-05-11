@@ -156,6 +156,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/neutron420/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 | [2104-sum-of-subarray-ranges](https://github.com/neutron420/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/neutron420/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [3719-longest-balanced-subarray-i](https://github.com/neutron420/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -202,6 +203,7 @@
 | [1763-longest-nice-substring](https://github.com/neutron420/LEETCODE/tree/master/1763-longest-nice-substring) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/neutron420/LEETCODE/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/neutron420/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [3719-longest-balanced-subarray-i](https://github.com/neutron420/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/neutron420/LEETCODE/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Two Pointers
 |  |
@@ -249,6 +251,7 @@
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/neutron420/LEETCODE/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [2017-grid-game](https://github.com/neutron420/LEETCODE/tree/master/2017-grid-game) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/neutron420/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [3719-longest-balanced-subarray-i](https://github.com/neutron420/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -593,6 +596,7 @@
 | [0347-top-k-frequent-elements](https://github.com/neutron420/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/neutron420/LEETCODE/tree/master/0427-construct-quad-tree) |
 | [1763-longest-nice-substring](https://github.com/neutron420/LEETCODE/tree/master/1763-longest-nice-substring) |
+| [3719-longest-balanced-subarray-i](https://github.com/neutron420/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -732,4 +736,8 @@
 | [1122-relative-sort-array](https://github.com/neutron420/LEETCODE/tree/master/1122-relative-sort-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/neutron420/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/neutron420/LEETCODE/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/neutron420/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
