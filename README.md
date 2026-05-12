@@ -418,6 +418,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/neutron420/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/neutron420/LEETCODE/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/neutron420/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/neutron420/LEETCODE/tree/master/0669-trim-a-binary-search-tree) |
@@ -512,6 +513,7 @@
 | [0404-sum-of-left-leaves](https://github.com/neutron420/LEETCODE/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/neutron420/LEETCODE/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/neutron420/LEETCODE/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/neutron420/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/neutron420/LEETCODE/tree/master/0672-bulb-switcher-ii) |
@@ -721,11 +723,13 @@
 | ------- |
 | [0133-clone-graph](https://github.com/neutron420/LEETCODE/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/neutron420/LEETCODE/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/neutron420/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/neutron420/LEETCODE/tree/master/0684-redundant-connection) |
 | [2685-count-the-number-of-complete-components](https://github.com/neutron420/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/neutron420/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/neutron420/LEETCODE/tree/master/0684-redundant-connection) |
 | [2685-count-the-number-of-complete-components](https://github.com/neutron420/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
