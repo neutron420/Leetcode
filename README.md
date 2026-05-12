@@ -430,6 +430,7 @@
 | [0938-range-sum-of-bst](https://github.com/neutron420/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0965-univalued-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/neutron420/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -520,6 +521,7 @@
 | [0909-snakes-and-ladders](https://github.com/neutron420/LEETCODE/tree/master/0909-snakes-and-ladders) |
 | [0965-univalued-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/neutron420/LEETCODE/tree/master/0994-rotting-oranges) |
+| [2685-count-the-number-of-complete-components](https://github.com/neutron420/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 ## Linked List
 |  |
 | ------- |
@@ -720,10 +722,12 @@
 | [0133-clone-graph](https://github.com/neutron420/LEETCODE/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/neutron420/LEETCODE/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/neutron420/LEETCODE/tree/master/0684-redundant-connection) |
+| [2685-count-the-number-of-complete-components](https://github.com/neutron420/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/neutron420/LEETCODE/tree/master/0684-redundant-connection) |
+| [2685-count-the-number-of-complete-components](https://github.com/neutron420/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
