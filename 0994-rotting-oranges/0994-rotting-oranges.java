@@ -1,35 +1,79 @@
+class Pair {
+    int row;
+    int col;
+    int time;
+
+    Pair(int row, int col, int time) {
+        this.row = row;
+        this.col = col;
+        this.time = time;
+    }
+}
 class Solution {
     public int orangesRotting(int[][] grid) {
-        int m = grid.length, n = grid[0].length;
-        int[][] dirs = {{1,0},{-1,0},{0,1},{0,-1}};
-        Queue<int[]> q = new LinkedList<>();
-        int fresh = 0, minutes = 0;
+        int n = grid.length;
+        int m = grid[0].length;
 
-        // Step 1: collect rotten & count fresh
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (grid[i][j] == 2) q.add(new int[]{i, j});
-                else if (grid[i][j] == 1) fresh++;
-            }
-        }
-        while (!q.isEmpty() && fresh > 0) {
-            int size = q.size();
-            minutes++;
-            for (int i = 0; i < size; i++) {
-                int[] cur = q.poll();
-                for (int[] d : dirs) {
-                    int x = cur[0] + d[0];
-                    int y = cur[1] + d[1];
+        Queue<Pair> q = new LinkedList<>();
+        boolean[][] vis = new boolean[n][m];
 
-                    if (x >= 0 && y >= 0 && x < m && y < n && grid[x][y] == 1) {
-                        grid[x][y] = 2;
-                        fresh--;
-                        q.add(new int[]{x, y});
-                    }
+        int fresh = 0;
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+
+                if (grid[i][j] == 2) {
+                    q.offer(new Pair(i, j, 0));
+                    vis[i][j] = true;
+                }
+
+                else if (grid[i][j] == 1) {
+                    fresh++;
                 }
             }
         }
 
-        return fresh == 0 ? minutes : -1;
+        int time = 0;
+        int count = 0;
+
+        while (!q.isEmpty()) {
+
+            Pair curr = q.poll();
+
+            int i = curr.row;
+            int j = curr.col;
+            int t = curr.time;
+
+            time = Math.max(time, t);
+            // top
+            if (i - 1 >= 0 && !vis[i - 1][j] && grid[i - 1][j] == 1) {
+                q.offer(new Pair(i - 1, j, t + 1));
+                vis[i - 1][j] = true;
+                count++;
+            }
+            // right
+            if (j + 1 < m && !vis[i][j + 1] && grid[i][j + 1] == 1) {
+                q.offer(new Pair(i, j + 1, t + 1));
+                vis[i][j + 1] = true;
+                count++;
+            }
+            // bottom
+            if (i + 1 < n && !vis[i + 1][j] && grid[i + 1][j] == 1) {
+                q.offer(new Pair(i + 1, j, t + 1));
+                vis[i + 1][j] = true;
+                count++;
+            }
+            // left
+            if (j - 1 >= 0 && !vis[i][j - 1] && grid[i][j - 1] == 1) {
+                q.offer(new Pair(i, j - 1, t + 1));
+                vis[i][j - 1] = true;
+                count++;
+            }
+        }
+        if (count != fresh) {
+            return -1;
+        }
+
+        return time;
     }
 }
