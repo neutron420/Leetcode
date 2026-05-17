@@ -44,6 +44,7 @@
 | [0392-is-subsequence](https://github.com/neutron420/LEETCODE/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/neutron420/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/neutron420/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0567-permutation-in-string](https://github.com/neutron420/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/neutron420/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/neutron420/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1763-longest-nice-substring](https://github.com/neutron420/LEETCODE/tree/master/1763-longest-nice-substring) |
@@ -194,6 +195,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/neutron420/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0460-lfu-cache](https://github.com/neutron420/LEETCODE/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/neutron420/LEETCODE/tree/master/0480-sliding-window-median) |
+| [0567-permutation-in-string](https://github.com/neutron420/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/neutron420/LEETCODE/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/neutron420/LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/neutron420/LEETCODE/tree/master/0706-design-hashmap) |
@@ -218,6 +220,7 @@
 | [0295-find-median-from-data-stream](https://github.com/neutron420/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neutron420/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/neutron420/LEETCODE/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/neutron420/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/neutron420/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/neutron420/LEETCODE/tree/master/0905-sort-array-by-parity) |
 ## Sorting
@@ -289,6 +292,7 @@
 | [0239-sliding-window-maximum](https://github.com/neutron420/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/neutron420/LEETCODE/tree/master/0413-arithmetic-slices) |
 | [0480-sliding-window-median](https://github.com/neutron420/LEETCODE/tree/master/0480-sliding-window-median) |
+| [0567-permutation-in-string](https://github.com/neutron420/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/neutron420/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/neutron420/LEETCODE/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1763-longest-nice-substring](https://github.com/neutron420/LEETCODE/tree/master/1763-longest-nice-substring) |
