@@ -761,4 +761,8 @@
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/neutron420/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/neutron420/LEETCODE/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
