@@ -210,6 +210,7 @@
 | [1122-relative-sort-array](https://github.com/neutron420/LEETCODE/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/neutron420/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1763-longest-nice-substring](https://github.com/neutron420/LEETCODE/tree/master/1763-longest-nice-substring) |
+| [1797-design-authentication-manager](https://github.com/neutron420/LEETCODE/tree/master/1797-design-authentication-manager) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/neutron420/LEETCODE/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/neutron420/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [3719-longest-balanced-subarray-i](https://github.com/neutron420/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
@@ -283,6 +284,7 @@
 | [0901-online-stock-span](https://github.com/neutron420/LEETCODE/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/neutron420/LEETCODE/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/neutron420/LEETCODE/tree/master/1670-design-front-middle-back-queue) |
+| [1797-design-authentication-manager](https://github.com/neutron420/LEETCODE/tree/master/1797-design-authentication-manager) |
 ## Queue
 |  |
 | ------- |
@@ -562,6 +564,7 @@
 | [0817-linked-list-components](https://github.com/neutron420/LEETCODE/tree/master/0817-linked-list-components) |
 | [1019-next-greater-node-in-linked-list](https://github.com/neutron420/LEETCODE/tree/master/1019-next-greater-node-in-linked-list) |
 | [1670-design-front-middle-back-queue](https://github.com/neutron420/LEETCODE/tree/master/1670-design-front-middle-back-queue) |
+| [1797-design-authentication-manager](https://github.com/neutron420/LEETCODE/tree/master/1797-design-authentication-manager) |
 ## Recursion
 |  |
 | ------- |
@@ -646,6 +649,7 @@
 | [0146-lru-cache](https://github.com/neutron420/LEETCODE/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/neutron420/LEETCODE/tree/master/0460-lfu-cache) |
 | [1670-design-front-middle-back-queue](https://github.com/neutron420/LEETCODE/tree/master/1670-design-front-middle-back-queue) |
+| [1797-design-authentication-manager](https://github.com/neutron420/LEETCODE/tree/master/1797-design-authentication-manager) |
 ## Dynamic Programming
 |  |
 | ------- |
