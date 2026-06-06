@@ -156,6 +156,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/neutron420/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1670-design-front-middle-back-queue](https://github.com/neutron420/LEETCODE/tree/master/1670-design-front-middle-back-queue) |
 | [1833-maximum-ice-cream-bars](https://github.com/neutron420/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/neutron420/LEETCODE/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2017-grid-game](https://github.com/neutron420/LEETCODE/tree/master/2017-grid-game) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/neutron420/LEETCODE/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2073-time-needed-to-buy-tickets](https://github.com/neutron420/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
@@ -211,6 +212,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/neutron420/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1763-longest-nice-substring](https://github.com/neutron420/LEETCODE/tree/master/1763-longest-nice-substring) |
 | [1797-design-authentication-manager](https://github.com/neutron420/LEETCODE/tree/master/1797-design-authentication-manager) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/neutron420/LEETCODE/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/neutron420/LEETCODE/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/neutron420/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [3719-longest-balanced-subarray-i](https://github.com/neutron420/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
@@ -407,6 +409,7 @@
 | [0938-range-sum-of-bst](https://github.com/neutron420/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0965-univalued-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/neutron420/LEETCODE/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -447,6 +450,7 @@
 | [0938-range-sum-of-bst](https://github.com/neutron420/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0965-univalued-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/neutron420/LEETCODE/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/neutron420/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -491,6 +495,7 @@
 | [0938-range-sum-of-bst](https://github.com/neutron420/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0965-univalued-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/neutron420/LEETCODE/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Matrix
 |  |
 | ------- |
@@ -729,6 +734,7 @@
 | [0897-increasing-order-search-tree](https://github.com/neutron420/LEETCODE/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/neutron420/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/neutron420/LEETCODE/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Bitmask
 |  |
 | ------- |
