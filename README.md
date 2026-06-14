@@ -691,6 +691,7 @@
 | [0678-valid-parenthesis-string](https://github.com/neutron420/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/neutron420/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/neutron420/LEETCODE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Trie
 |  |
 | ------- |
@@ -772,6 +773,7 @@
 | [0684-redundant-connection](https://github.com/neutron420/LEETCODE/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/neutron420/LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/neutron420/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/neutron420/LEETCODE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2685-count-the-number-of-complete-components](https://github.com/neutron420/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -785,6 +787,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/neutron420/LEETCODE/tree/master/0207-course-schedule) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/neutron420/LEETCODE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Counting Sort
 |  |
 | ------- |
@@ -806,4 +809,5 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/neutron420/LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/neutron420/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/neutron420/LEETCODE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
