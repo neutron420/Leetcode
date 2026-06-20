@@ -806,6 +806,7 @@
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/neutron420/LEETCODE/tree/master/0584-find-customer-referee) |
+| [1158-market-analysis-i](https://github.com/neutron420/LEETCODE/tree/master/1158-market-analysis-i) |
 ## Shortest Path
 |  |
 | ------- |
