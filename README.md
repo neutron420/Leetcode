@@ -457,6 +457,7 @@
 | [0897-increasing-order-search-tree](https://github.com/neutron420/LEETCODE/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/neutron420/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0965-univalued-binary-tree) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/neutron420/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/neutron420/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/neutron420/LEETCODE/tree/master/1932-merge-bsts-to-create-single-bst) |
@@ -562,6 +563,7 @@
 | [0965-univalued-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/neutron420/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/neutron420/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/neutron420/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/neutron420/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/neutron420/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 ## Linked List
@@ -774,6 +776,7 @@
 | [0684-redundant-connection](https://github.com/neutron420/LEETCODE/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/neutron420/LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/neutron420/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/neutron420/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/neutron420/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/neutron420/LEETCODE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2685-count-the-number-of-complete-components](https://github.com/neutron420/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
@@ -783,6 +786,7 @@
 | [0130-surrounded-regions](https://github.com/neutron420/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/neutron420/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/neutron420/LEETCODE/tree/master/0684-redundant-connection) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/neutron420/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/neutron420/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/neutron420/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
