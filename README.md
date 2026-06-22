@@ -48,6 +48,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/neutron420/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0567-permutation-in-string](https://github.com/neutron420/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/neutron420/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/neutron420/LEETCODE/tree/master/0721-accounts-merge) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/neutron420/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1763-longest-nice-substring](https://github.com/neutron420/LEETCODE/tree/master/1763-longest-nice-substring) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/neutron420/LEETCODE/tree/master/1839-longest-substring-of-all-vowels-in-order) |
@@ -131,6 +132,7 @@
 | [0705-design-hashset](https://github.com/neutron420/LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/neutron420/LEETCODE/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/neutron420/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
+| [0721-accounts-merge](https://github.com/neutron420/LEETCODE/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/neutron420/LEETCODE/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/neutron420/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/neutron420/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -209,6 +211,7 @@
 | [0621-task-scheduler](https://github.com/neutron420/LEETCODE/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/neutron420/LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/neutron420/LEETCODE/tree/master/0706-design-hashmap) |
+| [0721-accounts-merge](https://github.com/neutron420/LEETCODE/tree/master/0721-accounts-merge) |
 | [0817-linked-list-components](https://github.com/neutron420/LEETCODE/tree/master/0817-linked-list-components) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/neutron420/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/neutron420/LEETCODE/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
@@ -251,6 +254,7 @@
 | [0506-relative-ranks](https://github.com/neutron420/LEETCODE/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/neutron420/LEETCODE/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/neutron420/LEETCODE/tree/master/0658-find-k-closest-elements) |
+| [0721-accounts-merge](https://github.com/neutron420/LEETCODE/tree/master/0721-accounts-merge) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/neutron420/LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0853-car-fleet](https://github.com/neutron420/LEETCODE/tree/master/0853-car-fleet) |
 | [0905-sort-array-by-parity](https://github.com/neutron420/LEETCODE/tree/master/0905-sort-array-by-parity) |
@@ -450,6 +454,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/neutron420/LEETCODE/tree/master/0669-trim-a-binary-search-tree) |
 | [0672-bulb-switcher-ii](https://github.com/neutron420/LEETCODE/tree/master/0672-bulb-switcher-ii) |
 | [0684-redundant-connection](https://github.com/neutron420/LEETCODE/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/neutron420/LEETCODE/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/neutron420/LEETCODE/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/neutron420/LEETCODE/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/neutron420/LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -557,6 +562,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/neutron420/LEETCODE/tree/master/0672-bulb-switcher-ii) |
 | [0684-redundant-connection](https://github.com/neutron420/LEETCODE/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/neutron420/LEETCODE/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/neutron420/LEETCODE/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/neutron420/LEETCODE/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/neutron420/LEETCODE/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -789,6 +795,7 @@
 | [0130-surrounded-regions](https://github.com/neutron420/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/neutron420/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/neutron420/LEETCODE/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/neutron420/LEETCODE/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/neutron420/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/neutron420/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/neutron420/LEETCODE/tree/master/1631-path-with-minimum-effort) |
