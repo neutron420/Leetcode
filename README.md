@@ -464,6 +464,7 @@
 | [0938-range-sum-of-bst](https://github.com/neutron420/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/neutron420/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0965-univalued-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/0965-univalued-binary-tree) |
+| [1192-critical-connections-in-a-network](https://github.com/neutron420/LEETCODE/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/neutron420/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/neutron420/LEETCODE/tree/master/1631-path-with-minimum-effort) |
@@ -785,6 +786,7 @@
 | [0743-network-delay-time](https://github.com/neutron420/LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/neutron420/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/neutron420/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1192-critical-connections-in-a-network](https://github.com/neutron420/LEETCODE/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/neutron420/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/neutron420/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/neutron420/LEETCODE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -829,4 +831,8 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/neutron420/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/neutron420/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/neutron420/LEETCODE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/neutron420/LEETCODE/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
