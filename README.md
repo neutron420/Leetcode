@@ -161,6 +161,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/neutron420/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1631-path-with-minimum-effort](https://github.com/neutron420/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [1670-design-front-middle-back-queue](https://github.com/neutron420/LEETCODE/tree/master/1670-design-front-middle-back-queue) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/neutron420/LEETCODE/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/neutron420/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/neutron420/LEETCODE/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2017-grid-game](https://github.com/neutron420/LEETCODE/tree/master/2017-grid-game) |
@@ -364,6 +365,7 @@
 | [0672-bulb-switcher-ii](https://github.com/neutron420/LEETCODE/tree/master/0672-bulb-switcher-ii) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/neutron420/LEETCODE/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/neutron420/LEETCODE/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/neutron420/LEETCODE/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1763-longest-nice-substring](https://github.com/neutron420/LEETCODE/tree/master/1763-longest-nice-substring) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/neutron420/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Simulation
@@ -716,6 +718,7 @@
 | [0139-word-break](https://github.com/neutron420/LEETCODE/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/neutron420/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/neutron420/LEETCODE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/neutron420/LEETCODE/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Memoization
 |  |
 | ------- |
