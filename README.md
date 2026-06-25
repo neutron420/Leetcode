@@ -118,6 +118,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/neutron420/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/neutron420/LEETCODE/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0413-arithmetic-slices](https://github.com/neutron420/LEETCODE/tree/master/0413-arithmetic-slices) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/neutron420/LEETCODE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0427-construct-quad-tree](https://github.com/neutron420/LEETCODE/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/neutron420/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/neutron420/LEETCODE/tree/master/0463-island-perimeter) |
@@ -207,6 +208,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/neutron420/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/neutron420/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neutron420/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/neutron420/LEETCODE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0460-lfu-cache](https://github.com/neutron420/LEETCODE/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/neutron420/LEETCODE/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/neutron420/LEETCODE/tree/master/0567-permutation-in-string) |
@@ -356,6 +358,7 @@
 | [0287-find-the-duplicate-number](https://github.com/neutron420/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/neutron420/LEETCODE/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/neutron420/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/neutron420/LEETCODE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/neutron420/LEETCODE/tree/master/0461-hamming-distance) |
 | [0473-matchsticks-to-square](https://github.com/neutron420/LEETCODE/tree/master/0473-matchsticks-to-square) |
 | [0672-bulb-switcher-ii](https://github.com/neutron420/LEETCODE/tree/master/0672-bulb-switcher-ii) |
@@ -712,6 +715,7 @@
 | ------- |
 | [0139-word-break](https://github.com/neutron420/LEETCODE/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/neutron420/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/neutron420/LEETCODE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Memoization
 |  |
 | ------- |
