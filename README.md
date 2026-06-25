@@ -169,6 +169,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/neutron420/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 | [2104-sum-of-subarray-ranges](https://github.com/neutron420/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/neutron420/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/neutron420/LEETCODE/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/neutron420/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
@@ -227,6 +228,7 @@
 | [1932-merge-bsts-to-create-single-bst](https://github.com/neutron420/LEETCODE/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/neutron420/LEETCODE/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/neutron420/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/neutron420/LEETCODE/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/neutron420/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/neutron420/LEETCODE/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Two Pointers
@@ -323,6 +325,7 @@
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/neutron420/LEETCODE/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1763-longest-nice-substring](https://github.com/neutron420/LEETCODE/tree/master/1763-longest-nice-substring) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/neutron420/LEETCODE/tree/master/1839-longest-substring-of-all-vowels-in-order) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/neutron420/LEETCODE/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -367,6 +370,7 @@
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/neutron420/LEETCODE/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/neutron420/LEETCODE/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1763-longest-nice-substring](https://github.com/neutron420/LEETCODE/tree/master/1763-longest-nice-substring) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/neutron420/LEETCODE/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/neutron420/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
@@ -719,6 +723,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/neutron420/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/neutron420/LEETCODE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/neutron420/LEETCODE/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/neutron420/LEETCODE/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Memoization
 |  |
 | ------- |
