@@ -49,6 +49,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/neutron420/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0567-permutation-in-string](https://github.com/neutron420/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/neutron420/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [0720-longest-word-in-dictionary](https://github.com/neutron420/LEETCODE/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/neutron420/LEETCODE/tree/master/0721-accounts-merge) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/neutron420/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1763-longest-nice-substring](https://github.com/neutron420/LEETCODE/tree/master/1763-longest-nice-substring) |
@@ -134,6 +135,7 @@
 | [0705-design-hashset](https://github.com/neutron420/LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/neutron420/LEETCODE/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/neutron420/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
+| [0720-longest-word-in-dictionary](https://github.com/neutron420/LEETCODE/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/neutron420/LEETCODE/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/neutron420/LEETCODE/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/neutron420/LEETCODE/tree/master/0735-asteroid-collision) |
@@ -217,6 +219,7 @@
 | [0621-task-scheduler](https://github.com/neutron420/LEETCODE/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/neutron420/LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/neutron420/LEETCODE/tree/master/0706-design-hashmap) |
+| [0720-longest-word-in-dictionary](https://github.com/neutron420/LEETCODE/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/neutron420/LEETCODE/tree/master/0721-accounts-merge) |
 | [0817-linked-list-components](https://github.com/neutron420/LEETCODE/tree/master/0817-linked-list-components) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/neutron420/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -261,6 +264,7 @@
 | [0506-relative-ranks](https://github.com/neutron420/LEETCODE/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/neutron420/LEETCODE/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/neutron420/LEETCODE/tree/master/0658-find-k-closest-elements) |
+| [0720-longest-word-in-dictionary](https://github.com/neutron420/LEETCODE/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/neutron420/LEETCODE/tree/master/0721-accounts-merge) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/neutron420/LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0853-car-fleet](https://github.com/neutron420/LEETCODE/tree/master/0853-car-fleet) |
@@ -722,6 +726,7 @@
 | [0139-word-break](https://github.com/neutron420/LEETCODE/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/neutron420/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/neutron420/LEETCODE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0720-longest-word-in-dictionary](https://github.com/neutron420/LEETCODE/tree/master/0720-longest-word-in-dictionary) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/neutron420/LEETCODE/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/neutron420/LEETCODE/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Memoization
