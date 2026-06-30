@@ -173,6 +173,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/neutron420/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/neutron420/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/neutron420/LEETCODE/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3693-climbing-stairs-ii](https://github.com/neutron420/LEETCODE/tree/master/3693-climbing-stairs-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/neutron420/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
@@ -722,6 +723,7 @@
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/neutron420/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/neutron420/LEETCODE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3693-climbing-stairs-ii](https://github.com/neutron420/LEETCODE/tree/master/3693-climbing-stairs-ii) |
 ## Trie
 |  |
 | ------- |
