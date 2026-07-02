@@ -100,6 +100,7 @@
 | [0055-jump-game](https://github.com/neutron420/LEETCODE/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/neutron420/LEETCODE/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/neutron420/LEETCODE/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/neutron420/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/neutron420/LEETCODE/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/neutron420/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/neutron420/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -543,6 +544,7 @@
 | [0048-rotate-image](https://github.com/neutron420/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/neutron420/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/neutron420/LEETCODE/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/neutron420/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/neutron420/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/neutron420/LEETCODE/tree/master/0174-dungeon-game) |
 | [0427-construct-quad-tree](https://github.com/neutron420/LEETCODE/tree/master/0427-construct-quad-tree) |
@@ -713,6 +715,7 @@
 | [0055-jump-game](https://github.com/neutron420/LEETCODE/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/neutron420/LEETCODE/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/neutron420/LEETCODE/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/neutron420/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/neutron420/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/neutron420/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/neutron420/LEETCODE/tree/master/0139-word-break) |
