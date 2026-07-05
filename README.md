@@ -177,6 +177,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/neutron420/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/neutron420/LEETCODE/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2017-grid-game](https://github.com/neutron420/LEETCODE/tree/master/2017-grid-game) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/neutron420/LEETCODE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/neutron420/LEETCODE/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2073-time-needed-to-buy-tickets](https://github.com/neutron420/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 | [2104-sum-of-subarray-ranges](https://github.com/neutron420/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
@@ -207,6 +208,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/neutron420/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/neutron420/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/neutron420/LEETCODE/tree/master/1631-path-with-minimum-effort) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/neutron420/LEETCODE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/neutron420/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Hash Table
 |  |
@@ -261,6 +263,7 @@
 | [0567-permutation-in-string](https://github.com/neutron420/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/neutron420/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/neutron420/LEETCODE/tree/master/0905-sort-array-by-parity) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/neutron420/LEETCODE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -287,6 +290,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/neutron420/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/neutron420/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/neutron420/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/neutron420/LEETCODE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/neutron420/LEETCODE/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/neutron420/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Prefix Sum
@@ -300,6 +304,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/neutron420/LEETCODE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/neutron420/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Design
 |  |
@@ -386,6 +391,7 @@
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/neutron420/LEETCODE/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/neutron420/LEETCODE/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1763-longest-nice-substring](https://github.com/neutron420/LEETCODE/tree/master/1763-longest-nice-substring) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/neutron420/LEETCODE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/neutron420/LEETCODE/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/neutron420/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Simulation
@@ -746,6 +752,7 @@
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/neutron420/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1463-cherry-pickup-ii](https://github.com/neutron420/LEETCODE/tree/master/1463-cherry-pickup-ii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/neutron420/LEETCODE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/neutron420/LEETCODE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3693-climbing-stairs-ii](https://github.com/neutron420/LEETCODE/tree/master/3693-climbing-stairs-ii) |
 ## Trie
 |  |
@@ -816,6 +823,7 @@
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/neutron420/LEETCODE/tree/master/0473-matchsticks-to-square) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/neutron420/LEETCODE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Combinatorics
 |  |
 | ------- |
