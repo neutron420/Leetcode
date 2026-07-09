@@ -134,6 +134,7 @@
 | [0463-island-perimeter](https://github.com/neutron420/LEETCODE/tree/master/0463-island-perimeter) |
 | [0473-matchsticks-to-square](https://github.com/neutron420/LEETCODE/tree/master/0473-matchsticks-to-square) |
 | [0480-sliding-window-median](https://github.com/neutron420/LEETCODE/tree/master/0480-sliding-window-median) |
+| [0494-target-sum](https://github.com/neutron420/LEETCODE/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/neutron420/LEETCODE/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/neutron420/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0566-reshape-the-matrix](https://github.com/neutron420/LEETCODE/tree/master/0566-reshape-the-matrix) |
@@ -682,6 +683,7 @@
 | [0126-word-ladder-ii](https://github.com/neutron420/LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0401-binary-watch](https://github.com/neutron420/LEETCODE/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/neutron420/LEETCODE/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/neutron420/LEETCODE/tree/master/0494-target-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -751,6 +753,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/neutron420/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/neutron420/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/neutron420/LEETCODE/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/neutron420/LEETCODE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/neutron420/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/neutron420/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0741-cherry-pickup](https://github.com/neutron420/LEETCODE/tree/master/0741-cherry-pickup) |
