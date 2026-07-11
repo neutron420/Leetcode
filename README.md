@@ -20,6 +20,7 @@
 | [0326-power-of-three](https://github.com/neutron420/LEETCODE/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/neutron420/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0382-linked-list-random-node](https://github.com/neutron420/LEETCODE/tree/master/0382-linked-list-random-node) |
+| [0396-rotate-function](https://github.com/neutron420/LEETCODE/tree/master/0396-rotate-function) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/neutron420/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/neutron420/LEETCODE/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/neutron420/LEETCODE/tree/master/0492-construct-the-rectangle) |
@@ -126,6 +127,7 @@
 | [0347-top-k-frequent-elements](https://github.com/neutron420/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/neutron420/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/neutron420/LEETCODE/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0396-rotate-function](https://github.com/neutron420/LEETCODE/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/neutron420/LEETCODE/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/neutron420/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/neutron420/LEETCODE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -751,6 +753,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/neutron420/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/neutron420/LEETCODE/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/neutron420/LEETCODE/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/neutron420/LEETCODE/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/neutron420/LEETCODE/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/neutron420/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/neutron420/LEETCODE/tree/master/0435-non-overlapping-intervals) |
