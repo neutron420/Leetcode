@@ -50,6 +50,7 @@
 | [0392-is-subsequence](https://github.com/neutron420/LEETCODE/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/neutron420/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/neutron420/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0516-longest-palindromic-subsequence](https://github.com/neutron420/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/neutron420/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/neutron420/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0720-longest-word-in-dictionary](https://github.com/neutron420/LEETCODE/tree/master/0720-longest-word-in-dictionary) |
@@ -760,6 +761,7 @@
 | [0435-non-overlapping-intervals](https://github.com/neutron420/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/neutron420/LEETCODE/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/neutron420/LEETCODE/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/neutron420/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/neutron420/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/neutron420/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0741-cherry-pickup](https://github.com/neutron420/LEETCODE/tree/master/0741-cherry-pickup) |
