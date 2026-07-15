@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/neutron420/LEETCODE/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/neutron420/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/neutron420/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/neutron420/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/neutron420/LEETCODE/tree/master/0038-count-and-say) |
@@ -653,6 +654,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/neutron420/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/neutron420/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/neutron420/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/neutron420/LEETCODE/tree/master/0060-permutation-sequence) |
@@ -740,6 +742,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/neutron420/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/neutron420/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/neutron420/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/neutron420/LEETCODE/tree/master/0045-jump-game-ii) |
